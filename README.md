@@ -47,14 +47,15 @@ Some key insights from the analysis:
 * High-Performing Products: Certain categories consistently outperform others in terms of sales and profitability.
 * Discount Strategies: Discounts show a positive impact on sales volume but vary in their impact on profit margins.
 
-**Conclusion
+**Conclusion:
+
 This analysis highlights important insights for optimizing online retail performance. Retailers can use these findings to refine their marketing strategies, improve inventory planning, and better meet customer expectations.**
 
 **Requirements**
 
 The project uses the following libraries:
 
-* Python (v3.8+)
+* Python 
 * Pandas
 * NumPy
 * Matplotlib
